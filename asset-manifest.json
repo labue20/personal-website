@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.ee2ad504.chunk.css",
+    "main.js": "/personal-website/static/js/main.f7523384.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.f7523384.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.a8b01bfd.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.a8b01bfd.js.map",
+    "static/js/2.fd91fa55.chunk.js": "/personal-website/static/js/2.fd91fa55.chunk.js",
+    "static/js/2.fd91fa55.chunk.js.map": "/personal-website/static/js/2.fd91fa55.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/main.ee2ad504.chunk.css.map": "/personal-website/static/css/main.ee2ad504.chunk.css.map",
+    "static/js/2.fd91fa55.chunk.js.LICENSE.txt": "/personal-website/static/js/2.fd91fa55.chunk.js.LICENSE.txt",
+    "static/media/github_icon.9c0b26d3.svg": "/personal-website/static/media/github_icon.9c0b26d3.svg",
+    "static/media/linkedln_icon.404c8c9a.png": "/personal-website/static/media/linkedln_icon.404c8c9a.png",
+    "static/media/logo.6ce24c58.svg": "/personal-website/static/media/logo.6ce24c58.svg",
+    "static/media/profile.69ce5edf.jpeg": "/personal-website/static/media/profile.69ce5edf.jpeg",
+    "static/media/wills_resume.b0131de7.pdf": "/personal-website/static/media/wills_resume.b0131de7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8b01bfd.js",
+    "static/js/2.fd91fa55.chunk.js",
+    "static/css/main.ee2ad504.chunk.css",
+    "static/js/main.f7523384.chunk.js"
+  ]
+}
