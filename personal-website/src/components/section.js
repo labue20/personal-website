@@ -87,7 +87,7 @@ export default class Section extends Component {
             <Date date="2020" />
           </div>
           <div>
-            <Title name="react-personal-website" link="https://github.com/jakobau/react-personal-website" />
+            <Title name="personal-website" link="https://github.com/labue20/personal-website" />
             <Short desc="Personal Website Resume" />
             <div id="labels">
               <Label label="React" />
@@ -101,79 +101,8 @@ export default class Section extends Component {
           </div>
         </div>
 
-        <div id="section">
-          <div id="date">
-            <Date date="2020" />
-          </div>
-          <div>
-            <Title name="discord-bot" link="https://github.com/jakobau/discordbot" />
-            <Short desc="Fun Discord Bot" />
-            <div id="labels">
-              <Label label="Discord.js" />
-              <Label label="JavaScript" />
-              <Label label="Node.js" />
-            </div>
-            <Desc desc="Play music, manage roles, irritate friends..." />
-          </div>
-        </div>
 
-        <div id="section">
-          <div id="date">
-            <Date date="2020" />
-          </div>
-          <div>
-            <Title name="Twitterphile" link="https://github.com/MattD0312/twitter-profile-summarizer" />
-            <Short desc="DragonHacks 2020 Project" />
-            <div id="labels">
-              <Label label="Node.js" />
-              <Label label="Express" />
-              <Label label="JavaScript" />
-              <Label label="CSS" />
-              <Label label="Bootstrap" />
-              <Label label="Heroku" />
-              <Label label="Twitter API" />
-            </div>
-            <Desc desc="Use of the Twitter API on a web app. Displays most recently used hashtags and words of a twitter username." />
-            <Demo link="https://twitterphile.herokuapp.com/" />
-          </div>
-        </div>
 
-        <div id="section">
-          <div id="date">
-            <Date date="2020" />
-          </div>
-          <div>
-            <Title name="IMDrexel" link="https://github.com/jakobau/IMDrexel" />
-            <Short desc="Redesign of IMLeagues" />
-            <div id="labels">
-              <Label label="Node.js" />
-              <Label label="Express" />
-              <Label label="Bootstrap" />
-              <Label label="CSS" />
-              <Label label="JavaScript" />
-              <Label label="Amazon RDS" />
-            </div>
-            <Desc desc="Website for CS375 Final Project." />
-            <Demo link="https://jakobau.github.io/public/IMDrexel/dashboard.html" />
-          </div>
-        </div>
-
-        <div id="section">
-          <div id="date">
-            <Date date="2019" />
-          </div>
-          <div>
-            <Title name="Fantazmix" link="https://github.com/jakobau/fantasmix" />
-            <Short desc="AI Music Generating Web App" />
-            <div id="labels">
-              <Label label="Django" />
-              <Label label="Python" />
-              <Label label="CSS" />
-              <Label label="Google Magenta" />
-            </div>
-            <Desc desc="Website that uses artificial intelligence to generate music." />
-          </div>
-        </div>
       </div>
     );
   }

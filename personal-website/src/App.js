@@ -9,7 +9,7 @@ import Skills from './components/skills';
 import Experience from './components/experience';
 import Footer from './components/footer';
 
-import resumePDF from './icons/software_engineer_resume.pdf';
+import resumePDF from './icons/wills_resume.pdf';
 import styled from 'styled-components';
 
 function App() {
